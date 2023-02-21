@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISelection_Multiple.dll"</Assembly>
+		<AddInId>95993AD2-A8A2-4632-880A-73F6F3E079AF</AddInId>
+		<FullClassName>RevitAPISelection_Multiple.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выберите несколько элементов для Revit</Text>
+	</AddIn>
+</RevitAddIns>
